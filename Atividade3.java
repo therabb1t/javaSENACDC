@@ -4,10 +4,10 @@ public class Atividade3 {
         Scanner ler = new Scanner(System.in);
         int A, B, C;
  
-        System.out.println("Digite o valor de A:");
+        System.out.println("Digite um número:");
         A = ler.nextInt();
  
-        System.out.println("Digite o valor de B:");
+        System.out.println("Digite um número:");
         B = ler.nextInt();
  
         if (A == B)
