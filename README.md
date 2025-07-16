@@ -1,7 +1,7 @@
 # Estudos de Java - SENAC DC
 Compilador usado: https://www.jdoodle.com/online-java-compiler
 
-Este repositório armazena todas as atividades de python realizadas no segundo trimestre do SENAC EMTI.
+Este repositório armazena todas as atividades de java realizadas no segundo trimestre do SENAC EMTI.
 
 ### Desafios Iniciais - **16/07/2025**
 > Nome da pasta: *1607*
