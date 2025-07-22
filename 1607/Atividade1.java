@@ -2,15 +2,15 @@ import java.util.Scanner;
 public class Atividade1 {
 
     public static void main(String[] args) {
-        Scanner ler = new Scanner(System.in);
+        Scanner objler = new Scanner(System.in);
         int A, B, C, soma;
 
         System.out.println("Insira um valor:");
-        A = ler.nextInt();
+        A = objler.nextInt();
         System.out.println("Insira outro valor:");
-        B = ler.nextInt();
+        B = objler.nextInt();
         System.out.println("Insira mais um:");
-        C = ler.nextInt();
+        C = objler.nextInt();
         
         soma = A + B;
         if (soma < C)
