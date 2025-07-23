@@ -9,7 +9,7 @@ public class Atividade3 {
         x = objler.nextInt();
         System.out.printf("Informe o segundo valor: ");
         y = objler.nextInt();
-        subtrai = x + y;
+        subtrai = x - y;
         System.out.println("A subtração é: " + subtrai);
         System.exit(0);
     }

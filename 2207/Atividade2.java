@@ -10,7 +10,7 @@ public class Atividade2 {
         System.out.printf("Informe o segundo valor: ");
         y = objler.nextInt();
         soma = x + y;
-        System.out.println("A soma é: " + resultado);
+        System.out.println("A soma é: " + soma);
         System.exit(0);
     }
 }
